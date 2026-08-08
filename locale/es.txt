@@ -1,0 +1,26 @@
+#: locale=es
+
+## Hotspot
+
+### Texto
+HotspotPanoramaOverlayTextImage_F3569107_E1CB_B3BC_41E7_271ECBED9970.text = FILANDIA QUÍNDIO \
+PAISAJE CULTURA CAFETERO \
+
+HotspotPanoramaOverlayTextImage_F1102FDB_E1DE_6E54_41E6_1A60B4628142.text = PREDIO A SANEAR
+
+## Media
+
+### Imágen
+imlevel_F4F7B4A3_E1FB_F2F5_41B8_991CB892376F.url = media/panorama_F19D7797_E1BE_7EDC_41EA_2078D25E5390_HS_h9odn8zz_es.webp
+imlevel_F354480E_E1C6_D1CC_41E4_5817151EFD49.url = media/panorama_F19D7797_E1BE_7EDC_41EA_2078D25E5390_HS_kq5x5ppq_es.webp
+
+### Título
+panorama_F19D7797_E1BE_7EDC_41EA_2078D25E5390.label = DJI_20260805105158_0011_D
+panorama_ECC08709_E1B9_FFB5_4191_A1CA2B69A43F.label = IMG_20260805_110025_00_003
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 3
